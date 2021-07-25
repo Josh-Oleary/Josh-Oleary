@@ -2,7 +2,7 @@
 I am a full-stack JavaScript developer from North Carolina
 
 - Currently the lead developer for a Canadian non-profit promoting avalanche safety education
-- Learning React 
+- Learning React to move into MERN stack 
 <br>
 
 ## Connect with me 
