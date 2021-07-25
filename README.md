@@ -7,9 +7,9 @@ I am a full-stack JavaScript developer from North Carolina
 
 ## Connect with me 
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/josh-oleary-a91aa7201/"/>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>] (https://www.linkedin.com/in/josh-oleary-a91aa7201/)
 
-<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="https://jdoleary91.medium.com/"/>
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />] (https://jdoleary91.medium.com/)
 
 <br>
 
