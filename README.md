@@ -5,7 +5,6 @@ I am a full-stack JavaScript developer from North Carolina
 - Currently a Software Engineer for a fintech startup, Squirl Financial
 - Lead developer for non-profit organization
 - Freelancer for shopify development group
-- 
 <br>
 
 ## Connect with me 
