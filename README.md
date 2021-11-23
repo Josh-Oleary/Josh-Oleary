@@ -31,5 +31,5 @@ I am a full-stack Software Engineer with a passion for efficiency, automation an
 
 <img align="left" alt="React" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
-<img align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MySQL" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
