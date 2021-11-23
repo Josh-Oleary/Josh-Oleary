@@ -27,3 +27,7 @@ I am a full-stack Software Engineer with a passion for efficiency, automation an
 
 <img align="left" alt="Figma" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
+<img align="left" alt="Heroku" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+
+<img align="left" alt="React" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
