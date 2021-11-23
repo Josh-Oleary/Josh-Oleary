@@ -9,7 +9,7 @@ I am a full-stack Software Engineer with a passion for efficiency, automation an
 
 ## Connect with me 
 
-[<img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />](https://www.linkedin.com/in/josh-oleary-a91aa7201/)
+[<img align="left" alt="linkedin" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/josh-oleary-a91aa7201/)
 
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://jdoleary91.medium.com/)
 
