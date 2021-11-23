@@ -1,10 +1,10 @@
 ### Hello World!
-I am a full-stack JavaScript developer from North Carolina
+I am a full-stack Software Engineer with a passion for efficiency, automation and creativity. 
 
 ### Experience
-- Currently a Software Engineer for a fintech startup, Squirl Financial
-- Lead developer for non-profit organization
-- Freelancer for shopify development group
+- Squirl Financial: Software engineer leading UI development and data visualization
+- State of the Snowpack: Lead developer for all technical aspects of the project. From a responsive UI to a custom API and database archetecture.
+- Freelance: Worked on a variety of projects ranging from custom shopify themes to PHP MySQL projects on wordpress sites.
 <br>
 
 ## Connect with me 
