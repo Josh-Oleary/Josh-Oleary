@@ -23,7 +23,7 @@ I am a full-stack Software Engineer with a passion for efficiency, automation an
 
 <img align="left" alt="MongoDB" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
-<img align="left" alt="Express" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Express" style='height: 35px, color: white,' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <img align="left" alt="Figma" style='height: 35px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
