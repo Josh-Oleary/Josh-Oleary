@@ -3,7 +3,7 @@ I am a full-stack Software Engineer with a passion for efficiency, automation an
 
 ### Experience
 - Squirl Financial: Software engineer leading UI development and data visualization
-- State of the Snowpack: Lead developer for all technical aspects of the project. From a responsive UI to a custom API and database archetecture.
+- State of the Snowpack: Lead developer for all technical aspects of the project. From a responsive UI to a custom API and database architecture.
 - Freelance: Worked on a variety of projects ranging from custom shopify themes to PHP MySQL projects on wordpress sites.
 <br>
 
